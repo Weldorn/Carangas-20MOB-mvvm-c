@@ -1,0 +1,6 @@
+framework module Pods_Carangas_CarangasUITests {
+  umbrella header "Pods-Carangas-CarangasUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
